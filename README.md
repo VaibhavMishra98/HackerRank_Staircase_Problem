@@ -10,3 +10,7 @@ e.g. for n=6
       ####
      #####
     ######
+    
+    
+    
+    Link for the question:https://www.hackerrank.com/challenges/staircase/problem
